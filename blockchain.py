@@ -2,7 +2,7 @@ from functools import reduce
 import hashlib
 from collections import OrderedDict
 
-from port hash_util import hash_string_256, hash_block
+from hash_util import hash_string_256, hash_block
 
 
 # The reward for miners creating a new block
